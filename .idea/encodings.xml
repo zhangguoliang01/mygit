@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SpringCloudInActivity-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudInActivity-master/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudInActivity-master/client/article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudInActivity-master/client/comment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudInActivity-master/client/index" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudInActivity-master/client/user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudInActivity-master/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudInActivity-master/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudInActivity-master/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloudInActivity-master/register" charset="UTF-8" />
+  </component>
+</project>
